@@ -1,16 +1,16 @@
-# Case Study — Produto Financeiro para Jovens em Ascensão
+# Case Study: Produto Financeiro para Jovens em Ascensão
 
-> Um estudo de caso completo de produto digital financeiro — da pesquisa ao código.
+> Um estudo de caso completo de produto digital financeiro, da pesquisa ao código.
 
 ## Sobre o projeto
 
-Este case documenta o processo end-to-end de criação de um produto financeiro voltado para jovens de periferia em ascensão financeira — pessoas que já conquistaram renda, mas ainda escorregam em decisões financeiras por falta de visibilidade e hábito.
+Este case documenta o processo end-to-end de criação de um produto financeiro voltado para jovens de periferia em ascensão financeira. Pessoas que já conquistaram renda, mas ainda escorregam em decisões financeiras por falta de visibilidade e hábito.
 
 O projeto foi construído como exercício prático de **Designer Engineer**: cobrindo pesquisa de usuário, definição de problema, design de produto, design system e desenvolvimento.
 
 ## O Problema
 
-> *"Jovens de periferia em ascensão financeira precisam de visibilidade real dos seus gastos no momento certo — porque sem isso agem no impulso, tomando decisões que comprometem uma jornada que já custou muito para chegar até aqui."*
+> *"Jovens de periferia em ascensão financeira precisam de visibilidade real dos seus gastos no momento certo. Porque sem isso agem no impulso, tomando decisões que comprometem uma jornada que já custou muito para chegar até aqui."*
 
 ## Stack
 
@@ -46,4 +46,4 @@ O projeto foi construído como exercício prático de **Designer Engineer**: cob
 
 ---
 
-*Projeto em andamento — acompanhe a evolução pelos commits.*
+*Projeto em andamento. Acompanhe a evolução pelos commits.*
