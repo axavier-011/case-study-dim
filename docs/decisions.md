@@ -52,4 +52,55 @@
 
 ---
 
+## [004] Nome do produto: Dim
+
+**Decisão:** O produto se chama Dim  
+**Data:** Junho 2026
+
+**Contexto:** Três opções foram consideradas: Changes, Coins e Dim.
+
+**Racional:**
+- Dim é a abreviação de DimDim, gíria da periferia para dinheiro
+- Linguagem autêntica do usuário: "Tô com o dim", "Caiu o dim irmão"
+- O nome não foi escolhido num workshop de branding, veio da cultura real do usuário
+- Curto, diferente, não parece mais um app financeiro
+
+**Descartados:**
+- Changes: carrega a filosofia do projeto, mas genérico fora do contexto
+- Coins: direto e fácil de lembrar, mas comum demais no segmento
+
+---
+
+## [005] Captura automática via notificações
+
+**Decisão:** O Dim captura gastos automaticamente via leitura de notificações do celular  
+**Data:** Junho 2026
+
+**Contexto:** A alternativa era lançamento manual pelo usuário.
+
+**Racional:**
+- Fricção de lançamento foi a principal barreira identificada na pesquisa
+- Leitura de notificações resolve 80% do problema sem exigir ação do usuário
+- O usuário só confirma ou edita a categoria, não registra do zero
+
+**Descartado:** Lançamento manual como fluxo principal
+
+---
+
+## [006] Estrutura baseada em três momentos da rotina
+
+**Decisão:** A experiência do Dim é organizada em torno de três momentos do dia  
+**Data:** Junho 2026
+
+**Contexto:** A alternativa convencional seria organizar por abas funcionais (extrato, metas, relatórios).
+
+**Racional:**
+- Hábito se constrói encaixando o produto em rotinas que já existem
+- Os três momentos (manhã, almoço, noite) têm energias e necessidades diferentes
+- Organizar por momento força o produto a ser útil na hora certa, não genérico o tempo todo
+
+**O momento principal é o almoço.** É onde o usuário já para para checar tudo e tem uma transação recente fresca na memória.
+
+---
+
 *Última atualização: Junho 2026*
