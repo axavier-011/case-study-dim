@@ -22,6 +22,59 @@
 
 ---
 
+## O Produto
+
+**Nome:** Dim
+**Origem do nome:** "DimDim", gíria da periferia para dinheiro. "Tô com o dim", "Caiu o dim irmão."
+
+**Filosofia:** Captura o que você gasta sem esforço, te mostra o que isso significa no momento certo, e te recompensa por manter o controle dia após dia.
+
+---
+
+## Pilares do Produto
+
+**1. Captura automática**
+Leitura de notificações de pagamento do celular. Quando chega a notificação do banco, o Dim já registra. O usuário só confirma ou ajusta a categoria.
+
+**2. Visibilidade no momento certo**
+O produto não espera o usuário lembrar de abrir. Ele se encaixa nos momentos da rotina onde isso já acontece naturalmente.
+
+**3. Gamificação**
+Engajamento e retorno são tão importantes quanto o core financeiro. O produto precisa criar o hábito, não só oferecer a ferramenta.
+
+---
+
+## Os Três Momentos
+
+A experiência do Dim é construída em torno de três momentos da rotina do usuário:
+
+| Momento | Horário | Energia | Pergunta que o app responde |
+|---|---|---|---|
+| **Manhã** | Café da manhã | Orientação | Como está meu dia financeiro? |
+| **Almoço** | Volta do almoço | Consciência | O que aconteceu até agora? |
+| **Noite** | Antes de dormir | Reflexão | Como fechei o dia? |
+
+O momento principal é o **almoço**. Se o Dim funcionar aqui, funciona em qualquer lugar.
+
+---
+
+## Filosofia da Tela Principal (Almoço)
+
+> Mostra pouco, mas mostra o que importa. E o que importa é: você está bem ou não hoje?
+
+Três camadas de informação em ordem de importância:
+
+1. **Status do dia:** dentro ou fora da meta? Leitura em menos de 2 segundos
+2. **O que aconteceu:** gastos do dia em linguagem humana, agrupados por categoria
+3. **Detalhe sob demanda:** disponível, mas não aparece por padrão
+
+**Diferencial em relação aos extratos bancários:**
+- Linguagem humana no lugar de códigos bancários ("almoço" no lugar de "PGTO POS")
+- Foco no que importa, não em tudo de uma vez
+- Âncora de meta diária para dar contexto ao gasto
+
+---
+
 ## Insights de Pesquisa
 
 ### O loop quebrado dos apps financeiros
@@ -65,8 +118,16 @@ O problema não é o produto, é o hábito. Apps de controle financeiro falham p
 
 ## Status Atual
 
-**Fase:** Definição do problema ✅  
-**Próxima etapa:** Definição da solução
+**Fase:** Definição da solução (em andamento)
+
+**Concluído:**
+- Pesquisa de usuário
+- Definição do problema
+- Nome e filosofia do produto
+- Três momentos de engajamento
+- Filosofia da tela principal
+
+**Próxima etapa:** Mapear os três momentos em telas e fluxos
 
 ---
 
