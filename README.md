@@ -16,10 +16,9 @@ O projeto foi construído como exercício prático de **Designer Engineer**: cob
 
 | Ferramenta | Uso |
 |---|---|
-| Claude | Gestão do projeto e copywriting |
-| Figma | Design System e Interface |
-| Recraft | Assets visuais |
-| Claude Code | Desenvolvimento |
+| Paper | Design System e Interface |
+| Codex | Desenvolvimento |
+| Magnific e Codex | Assets visuais |
 | GitHub | Documentação da jornada |
 
 ## Estrutura do repositório
@@ -30,7 +29,7 @@ O projeto foi construído como exercício prático de **Designer Engineer**: cob
   research.md          → Insights de pesquisa
   decisions.md         → Log de decisões
 /design
-  /assets              → Exports do Recraft e Figma
+  /assets              → Assets do Magnific e Codex e exports do Paper
 /dev                   → Código da aplicação
 ```
 
